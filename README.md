@@ -1,6 +1,10 @@
 
 LIVE DEMO 
 
+![image](https://user-images.githubusercontent.com/69544667/202285436-bacadfed-66a6-4306-a9ed-185097f33683.png)
+
+
+
 https://ecommerce-iota-gules.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
